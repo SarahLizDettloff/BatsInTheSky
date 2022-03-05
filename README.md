@@ -2,11 +2,13 @@
 Play as an owl and avoid bats in the sky. 
 
 <p align="center">
-
   <h4 align="center">Bats In The Sky</h4>
   <p align="center">
   <img src="https://raw.githubusercontent.com/SarahLizDettloff/BatsInTheSky/main/BatsIntheSkyPreview.gif" alt="Bats in the sky Preview Gif" />
 </p>
+  <p align="center">
+    <button width="208" height="167" frameborder="0"><a href="https://sarahlizdettloff.itch.io/bats-in-the-sky">Play on itch.io</a>
+  <p/>
   <p align="center">
     <a href="https://raw.githubusercontent.com/SarahLizDettloff/BatsInTheSky/blob/main/BatsInTheSky.zip">Download</a>
     ·
@@ -18,7 +20,6 @@ Play as an owl and avoid bats in the sky.
 
 # Bats In The Sky
 Play as an owl and dodge the bats in the sky. This project was heavily inspired and relied on [Dodge the Creeps](https://docs.godotengine.org/en/stable/getting_started/step_by_step/your_first_game.html) tutorial provided by Godot.
-
 
 # Built with
 Built with Godot 3.3.3
